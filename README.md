@@ -13,7 +13,7 @@
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/actuator_spec_generator.git
+    git clone https://github.com/vrtnis/actuator_spec_generator.git
     ```
 
 2. **Navigate to the Project Directory**
