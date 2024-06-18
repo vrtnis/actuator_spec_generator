@@ -25,7 +25,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "icon.webp"
+        "icon.png"
       ],
       "matches": [
         "*://*/*"
@@ -33,6 +33,6 @@
     }
   ],
   "icons": {
-    "48": "icon.webp"
+    "48": "icon.png"
   }
 }

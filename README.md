@@ -1,6 +1,6 @@
-# actuator_spec_generator
+# Actuator Spec Generator
 
-`actuator_spec_generator` is a browser extension designed to extract detailed information about robotics actuators from web pages and format it into a structured infobox. This tool leverages the OpenAI API to generate the infobox based on the text content of the page.
+`actuator_spec_generator` is a browser extension designed to extract detailed information about robotics actuators from web pages (e.g., Alibaba or MyActuator listings) and format it into a structured infobox. This tool leverages the OpenAI API to generate the infobox based on the text content of the page.
 
 ## Features
 
