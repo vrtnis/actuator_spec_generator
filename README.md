@@ -4,10 +4,10 @@
 
 ## Features
 
-- Extracts actuator specifications from web pages.
+- Extracts actuator specifications from product pages (e.g., Alibaba product pages).
 - Generates a structured infobox with key details.
 - Supports easy configuration and usage through the browser extension interface.
-- Leverages OpenAI API for text processing and data extraction.
+- Leverages OpenAI API (GPT-4o).
 
 ## Installation
 
