@@ -37,3 +37,12 @@
     - Click the "Generate Specs" button in the extension popup.
     - The extension will extract the information and display it in an infobox.
 
+## Screenshots
+
+![Actuator Information on Alibaba](https://github.com/vrtnis/actuator_spec_generator/blob/main/images/ui_actuator_generator.png)
+![Chrome Extension Interface](https://github.com/vrtnis/actuator_spec_generator/blob/main/images/myextensions.png)
+
+<p align="center">
+  <img src="https://github.com/your-username/actuator_spec_generator/blob/main/images/ui_actuator_generator.png" alt="Actuator Information on Alibaba" width="45%"/>
+  <img src="https://github.com/your-username/actuator_spec_generator/blob/main/images/myextensions.png" alt="Chrome Extension Interface" width="45%"/>
+</p>
