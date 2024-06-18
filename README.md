@@ -37,7 +37,3 @@
     - Click the "Generate Specs" button in the extension popup.
     - The extension will extract the information and display it in an infobox.
 
-
-## License
-
-This project is licensed under the MIT License.

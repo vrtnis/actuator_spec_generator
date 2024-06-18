@@ -6,13 +6,15 @@
     body {
       font-family: Arial, sans-serif;
       margin: 10px;
-      max-width: 100%; /* Make the width responsive */
-      overflow-x: hidden; /* Prevent horizontal scroll */
+      max-width: 100%;
+      overflow-x: hidden;
+      border-radius: 10px; /* Rounded edges for the popup */
     }
     input[type="password"], button {
       width: 100%;
       padding: 10px;
       margin: 5px 0;
+      border-radius: 5px; /* Rounded edges for the input and button */
     }
     #saveButton {
       display: none;
@@ -24,6 +26,7 @@
       cursor: pointer;
       padding: 10px;
       margin-top: 10px;
+      border-radius: 5px; /* Rounded edges for the button */
     }
     #generateButton:hover {
       background-color: #45a049;
@@ -35,6 +38,12 @@
       padding: 10px;
       border: 1px solid #ccc;
       display: none; /* Initially hidden */
+      border-radius: 5px; /* Rounded edges for the output */
+    }
+    h2 {
+      font-size: 16px; /* Reduced font size for the title */
+      margin: 0;
+      padding-bottom: 10px;
     }
     @media (min-width: 480px) {
       body {
@@ -53,23 +62,10 @@
         font-size: 12px;
       }
     }
-    .infobox-actuator {
-      word-wrap: break-word;
-      width: 100%;
-      padding: 10px;
-      border: 1px solid #ccc;
-      background-color: #f9f9f9;
-    }
-    .infobox-row {
-      margin-bottom: 10px;
-    }
-    .infobox-row a {
-      word-wrap: break-word;
-    }
   </style>
 </head>
 <body>
-  <h2>Actuator Info Extractor</h2>
+  <h2>Actuator Spec Generator</h2>
   <input type="password" id="apiKey" placeholder="OpenAI API Key">
   <button id="saveButton">Save</button>
   <button id="generateButton">Generate Specs</button>
