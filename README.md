@@ -38,30 +38,6 @@
     - The extension will extract the information and display it in an infobox.
 
 
-1. **Fork the Repository**
-    - Click the "Fork" button at the top right of this page.
-
-2. **Clone Your Fork**
-    ```bash
-    git clone https://github.com/your-username/actuator_spec_generator.git
-    ```
-
-3. **Create a Branch**
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-
-4. **Make Your Changes**
-    - Make your changes and commit them with a descriptive commit message.
-
-5. **Push to Your Fork**
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-
-6. **Create a Pull Request**
-    - Navigate to the original repository and click the "New Pull Request" button.
-
 ## License
 
 This project is licensed under the MIT License.
